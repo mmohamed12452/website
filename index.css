@@ -1,0 +1,38 @@
+*
+{
+    margin:0%;
+    padding:0%;
+}
+header
+{
+    background-color:lightcoral;
+    height: 45px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+li
+{
+    display:inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    
+}
+a
+{
+   color:white;
+   text-decoration-line: none;
+   
+}
+
+img
+{
+    height:400px;
+    width:250px;
+    margin:3%;
+}
+p
+{
+  text-align: right;
+}
+
