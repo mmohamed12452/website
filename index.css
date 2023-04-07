@@ -2,6 +2,7 @@
 {
     margin:0%;
     padding:0%;
+    background-color:greenyellow;
 }
 header
 {
@@ -16,13 +17,11 @@ li
     display:inline;
     margin-right: 10px;
     margin-left: 10px;
-    
 }
 a
 {
    color:white;
    text-decoration-line: none;
-   
 }
 
 img
@@ -70,4 +69,19 @@ main{
     padding: 15px 20px;
     background-color: orange;
     margin-top: 20px;
+}
+h2
+{
+    padding: 35px 40px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    color:black;
+}
+button
+{
+    padding:20px 40px;
+    width:100%;
+    background-color: orange;
+    color: white;
 }
